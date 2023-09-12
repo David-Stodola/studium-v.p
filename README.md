@@ -1,5 +1,9 @@
+# studium-v.n
+Studium con optimizaciones y cargas de archivos version n.0- n1.0
+Todo el trabajo de desarollo base, es autoria de N.Ailen Gonzalez. 
+
 # studium-v.p
-Studium con optimizaciones y cargas de archivos version p 1.0 (1)
+Studium con optimizaciones y cargas de archivos version p 1.1 (1)
 
 Hola soy David, desarrollador front-end Trainee, aquí subiré cambios relacionados con las publicaciones cargadas del titular J.Carlos Alby.
 
