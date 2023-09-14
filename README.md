@@ -1,6 +1,6 @@
 # studium-v.n
 Studium con optimizaciones y cargas de archivos version n.0- n1.0
-Todo el trabajo de desarollo base, es autoria de N.Ailen Gonzalez. 
+Todo el trabajo de desarollo y estructuras html/js/css , es autoria de N.Ailen Gonzalez. 
 
 # studium-v.p
 Studium con optimizaciones y cargas de archivos version p 1.1 (1)
