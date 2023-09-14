@@ -12,7 +12,10 @@ Algunos cambios en la V0.1:
 Css:
 optimizciones visuales, h4. delay mousse *cursor latencia 0.5ms
 
-.pub y .cards
+.pub y .cards.
+
+:link y :visited
+
 
 hmtl:
 se agrego funciones de botones, con sus respectivos links a los archivos y links del asociado. 
