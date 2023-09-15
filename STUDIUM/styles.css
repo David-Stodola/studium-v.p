@@ -26,7 +26,7 @@ body{
     border: 1px solid rgba(255, 255, 255, 0.408);
     border-radius: 50%;
     position: absolute;
-    transition-duration: 300ms;
+    transition-duration: 10ms;
     transition-timing-function: ease-out;
     animation: cursorAnim .6s infinite alternate;
     pointer-events: none;
@@ -231,6 +231,16 @@ header{
 .navbar-brand img{
     width: 70%;
 }
+
+
+:link{
+    color: var(--h1-color);
+text-decoration: none;}
+a:hover{
+    color: #D6A166;
+}
+
+:visited{color: #bbbb95;}
 
 
 
@@ -1238,8 +1248,10 @@ to { box-shadow: 0 0 100px 15px #D6A166; }
 
 .pub_boton button{ 
     font-size: 12px;
-    padding: 7px 50px;
+    padding: 7px 100px;
     font-weight: 600;
+    justify-content: center;
+    align-content: center;
 }
 
 .pub_filters{
@@ -1266,7 +1278,7 @@ to { box-shadow: 0 0 100px 15px #D6A166; }
     position: relative;
     justify-content: flex-start;
     border-radius: 20px;
-    padding: 25px;
+    padding: 16px;
 }
 
 .pub_libinfo{
@@ -1279,7 +1291,7 @@ to { box-shadow: 0 0 100px 15px #D6A166; }
 }
 
 .pub_libinfo h4, .pub_recensioninfo h4{
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
 
 .pub_flecha{
@@ -1292,6 +1304,10 @@ to { box-shadow: 0 0 100px 15px #D6A166; }
 .pub_gruporecen{
     align-items: center;
 
+}
+
+.pub_titulo{
+    text-decoration: none;
 }
 
 .pub_recensiones{
@@ -1486,6 +1502,7 @@ body::-webkit-scrollbar-thumb{
   .button_desc{
     background-color: #745838;
     border: 1px solid #D6A166;
+    
   }
 
   .button_comp{
