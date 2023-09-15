@@ -26,7 +26,7 @@ body{
     border: 1px solid rgba(255, 255, 255, 0.408);
     border-radius: 50%;
     position: absolute;
-    transition-duration: 300ms;
+    transition-duration: 10ms;
     transition-timing-function: ease-out;
     animation: cursorAnim .6s infinite alternate;
     pointer-events: none;
@@ -231,6 +231,16 @@ header{
 .navbar-brand img{
     width: 70%;
 }
+
+
+:link{
+    color: var(--h1-color);
+text-decoration: none;}
+a:hover{
+    color: #D6A166;
+}
+
+:visited{color: #bbbb95;}
 
 
 
